@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+Content-based filtering delivers highly personalized recommendations by analyzing a user’s specific preferences, interests, or needs. By examining item features—such as genre, storyline, cast, directors, and composers—the system identifies and suggests content that aligns closely with the user’s unique tastes. This approach ensures that recommendations are relevant and tailored, offering a more satisfying and individualized user experience.
